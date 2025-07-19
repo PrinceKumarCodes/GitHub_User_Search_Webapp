@@ -24,13 +24,13 @@ A simple and interactive web application to search GitHub users by their usernam
 
  ## 🌐 Live Demo
 🔗 [Click Here to View](https://princekumar-github-user-search-webapp.netlify.app/)  
-*(Replace the link with your Netlify or GitHub Pages URL)*
+
 
 ---
 
 ## 📌 API Used
 [GitHub REST API](https://api.github.com/users/)  
-`https://api.github.com/users/{username}`
+`https://api.github.com/users/`
 
 ---
 
