@@ -36,6 +36,7 @@ A simple and interactive web application to search GitHub users by their usernam
 
 ## 👨‍💻 Author
 **Your Name**  
-🔗 [GitHub Profile](https://github.com/PrinceKumarCodes)
+🔗 [GitHub Profile](https://github.com/PrinceKumarCode
+)
 
 
